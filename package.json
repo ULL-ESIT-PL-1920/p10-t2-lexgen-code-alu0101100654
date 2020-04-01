@@ -1,0 +1,15 @@
+{
+  "name": "p10-t2-lexgen-code-alu0101100654",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Lexer",
+    "Token"
+  ],
+  "author": "Florentín Pérez González",
+  "license": "ISC"
+}

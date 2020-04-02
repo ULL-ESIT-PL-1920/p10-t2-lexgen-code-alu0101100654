@@ -35,7 +35,7 @@ function buildLexer(tokens) {
     function buildOrRegexp(regexps) {
       const sources = regexps.map(regExp => regExp.source);
       const union = sources.join('|');
-      return new RegExp(union, 'y');
+      return new RegExp(union, 'y', 'u');
     }
 
     /**

@@ -1,7 +1,7 @@
 {
   "name": "@ULL-ESIT-PL-1920/p10-t2-lexgen-code-alu0101100654",
   "version": "0.2.0",
-  "description": "",
+  "description": "Paquete de construcción de analizadores léxicos",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

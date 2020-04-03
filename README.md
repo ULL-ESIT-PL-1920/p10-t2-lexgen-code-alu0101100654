@@ -51,4 +51,4 @@ Existe ciertas condiciones que pueden darse durante la utilización del módulo 
 
 ---
 ## Documentación adicional.
-Puede consultarse la documentación oficial del módulo a través de este [enlace](http://www.limni.net).
+Puede consultarse la documentación oficial del módulo a través de este [enlace](https://ull-esit-pl-1920.github.io/p10-t2-lexgen-code-alu0101100654/).
